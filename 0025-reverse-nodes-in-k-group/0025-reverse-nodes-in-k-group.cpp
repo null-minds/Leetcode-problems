@@ -44,8 +44,10 @@ public:
 
             // not enough elements to make the group of k elements
             if(kthnode == nullptr){
-                prevLast->next = temp;
-                break;
+                if(prevLast){
+                    prevLast->next = temp;
+                    break;
+                }
             }
 
             ListNode* nextNode = kthnode->next;
