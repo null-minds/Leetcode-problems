@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/null-minds/Leetcode-problems/tree/master/0099-recover-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/null-minds/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/null-minds/Leetcode-problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/null-minds/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/null-minds/Leetcode-problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/null-minds/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/null-minds/Leetcode-problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## DP on Trees
 |  |
@@ -39,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/null-minds/Leetcode-problems/tree/master/0025-reverse-nodes-in-k-group) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/null-minds/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
