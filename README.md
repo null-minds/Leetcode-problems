@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/null-minds/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/null-minds/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/null-minds/Leetcode-problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -46,4 +47,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/null-minds/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/null-minds/Leetcode-problems/tree/master/0200-number-of-islands) |
+## Array
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/null-minds/Leetcode-problems/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/null-minds/Leetcode-problems/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/null-minds/Leetcode-problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
