@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/null-minds/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/null-minds/Leetcode-problems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/null-minds/Leetcode-problems/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/null-minds/Leetcode-problems/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/null-minds/Leetcode-problems/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/null-minds/Leetcode-problems/tree/master/1020-number-of-enclaves) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/null-minds/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/null-minds/Leetcode-problems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/null-minds/Leetcode-problems/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/null-minds/Leetcode-problems/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/null-minds/Leetcode-problems/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/null-minds/Leetcode-problems/tree/master/0994-rotting-oranges) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/null-minds/Leetcode-problems/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/null-minds/Leetcode-problems/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/null-minds/Leetcode-problems/tree/master/0802-find-eventual-safe-states) |
 ## Graph Coloring
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/null-minds/Leetcode-problems/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/null-minds/Leetcode-problems/tree/master/0802-find-eventual-safe-states) |
 ## Kosaraju's Algorithm
 |  |
@@ -98,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/null-minds/Leetcode-problems/tree/master/0802-find-eventual-safe-states) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/null-minds/Leetcode-problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
