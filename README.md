@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/null-minds/Leetcode-problems/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/null-minds/Leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/null-minds/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Linked List
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/null-minds/Leetcode-problems/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/null-minds/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/null-minds/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/null-minds/Leetcode-problems/tree/master/0207-course-schedule) |
@@ -118,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/null-minds/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/null-minds/Leetcode-problems/tree/master/0127-word-ladder) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/null-minds/Leetcode-problems/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
