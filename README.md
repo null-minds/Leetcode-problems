@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/null-minds/Leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/null-minds/Leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/null-minds/Leetcode-problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/null-minds/Leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/null-minds/Leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/null-minds/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/null-minds/Leetcode-problems/tree/master/0994-rotting-oranges) |
