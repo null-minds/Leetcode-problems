@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/null-minds/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/null-minds/Leetcode-problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/null-minds/Leetcode-problems/tree/master/0127-word-ladder) |
+| [0678-valid-parenthesis-string](https://github.com/null-minds/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/null-minds/Leetcode-problems/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/null-minds/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
 |  |
 | ------- |
@@ -160,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/null-minds/Leetcode-problems/tree/master/0455-assign-cookies) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/null-minds/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/null-minds/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
