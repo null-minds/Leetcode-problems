@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/null-minds/Leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/null-minds/Leetcode-problems/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/null-minds/Leetcode-problems/tree/master/0200-number-of-islands) |
+| [0455-assign-cookies](https://github.com/null-minds/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0875-koko-eating-bananas](https://github.com/null-minds/Leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/null-minds/Leetcode-problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/null-minds/Leetcode-problems/tree/master/1020-number-of-enclaves) |
@@ -143,4 +144,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/null-minds/Leetcode-problems/tree/master/0069-sqrtx) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/null-minds/Leetcode-problems/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/null-minds/Leetcode-problems/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/null-minds/Leetcode-problems/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/null-minds/Leetcode-problems/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
