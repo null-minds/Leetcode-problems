@@ -6,17 +6,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/null-minds/Leetcode-problems/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/null-minds/Leetcode-problems/tree/master/0101-symmetric-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/null-minds/Leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/null-minds/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/null-minds/Leetcode-problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/null-minds/Leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/null-minds/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/null-minds/Leetcode-problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/null-minds/Leetcode-problems/tree/master/0101-symmetric-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/null-minds/Leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/null-minds/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/null-minds/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/null-minds/Leetcode-problems/tree/master/0207-course-schedule) |
@@ -38,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/null-minds/Leetcode-problems/tree/master/0101-symmetric-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/null-minds/Leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/null-minds/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/null-minds/Leetcode-problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/null-minds/Leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/null-minds/Leetcode-problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Hash Table
 |  |
