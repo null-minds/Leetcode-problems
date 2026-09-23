@@ -5,17 +5,13 @@ public:
 
     KthLargest(int k, vector<int>& nums) {
         int n = nums.size();
-        size = k;
-        for(int i=0; i<n; i++){
-            add(nums[i]);
-        }
+        this->size = k;
+        for(auto n:nums) pq.push(n);
     }
     
     int add(int val) {
         pq.push(val);
-        if(pq.size() > size){
-            pq.pop();
-        }
+        while(pq.size()> size) pq.pop();
         return pq.top();
     }
 };
