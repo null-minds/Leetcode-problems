@@ -201,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/null-minds/Leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/null-minds/Leetcode-problems/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
