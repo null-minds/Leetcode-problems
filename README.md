@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/null-minds/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/null-minds/Leetcode-problems/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/null-minds/Leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/null-minds/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/null-minds/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/null-minds/Leetcode-problems/tree/master/0127-word-ladder) |
 | [0678-valid-parenthesis-string](https://github.com/null-minds/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 ## Bidirectional Search
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/null-minds/Leetcode-problems/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/null-minds/Leetcode-problems/tree/master/0182-duplicate-emails) |
 | [0595-big-countries](https://github.com/null-minds/Leetcode-problems/tree/master/0595-big-countries) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/null-minds/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
