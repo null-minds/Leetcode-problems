@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/null-minds/Leetcode-problems/tree/master/0069-sqrtx) |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/null-minds/Leetcode-problems/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [3871-count-commas-in-range-ii](https://github.com/null-minds/Leetcode-problems/tree/master/3871-count-commas-in-range-ii) |
 ## Newton's Method
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/null-minds/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/null-minds/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/null-minds/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/null-minds/Leetcode-problems/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 ## Sorting
 |  |
 | ------- |
