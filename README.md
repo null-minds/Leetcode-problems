@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/null-minds/Leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/null-minds/Leetcode-problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/null-minds/Leetcode-problems/tree/master/1020-number-of-enclaves) |
+| [1051-height-checker](https://github.com/null-minds/Leetcode-problems/tree/master/1051-height-checker) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/null-minds/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Union-Find
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/null-minds/Leetcode-problems/tree/master/0455-assign-cookies) |
+| [1051-height-checker](https://github.com/null-minds/Leetcode-problems/tree/master/1051-height-checker) |
 ## Quicksort
 |  |
 | ------- |
@@ -217,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/null-minds/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/null-minds/Leetcode-problems/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/null-minds/Leetcode-problems/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
