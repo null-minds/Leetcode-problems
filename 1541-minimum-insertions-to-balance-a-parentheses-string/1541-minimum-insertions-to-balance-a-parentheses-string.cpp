@@ -1,25 +1,15 @@
 class Solution {
 public:
     int minInsertions(string s) {
-        int p=0, n=s.size(), k=0;
-        for(int i=0; i<n; i++){
-            char c=s[i];
-            if (c=='('){
-                p+=2;
-                if (p&1==1){
-                    k++;
-                    p--;
-                }
+        int res = 0, t = 0;
+        for(char c: s) {
+            if(c == '(') {
+                if(t % 2) res++,t++;
+                else t+= 2;
             }
-            else{
-                p--;
-                if (p<0){
-                    k++;
-                    p+=2;
-                }
-               
-            }
+            else if(t == 0) res++, t = 1;
+            else t--;
         }
-        return p+k;
+        return res + t;
     }
 };
