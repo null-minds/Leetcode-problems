@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/null-minds/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/null-minds/Leetcode-problems/tree/master/0127-word-ladder) |
 | [0678-valid-parenthesis-string](https://github.com/null-minds/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/null-minds/Leetcode-problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/null-minds/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/null-minds/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/null-minds/Leetcode-problems/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/null-minds/Leetcode-problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sorting
 |  |
 | ------- |
@@ -193,10 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/null-minds/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/null-minds/Leetcode-problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/null-minds/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/null-minds/Leetcode-problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Design
 |  |
 | ------- |
